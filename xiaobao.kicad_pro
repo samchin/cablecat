@@ -779,7 +779,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "dabao_v3c.kicad_pro",
+    "filename": "xiaobao.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -825,7 +825,7 @@
       "plot": "",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "dabao_v3c.step",
+      "step": "xiaobao.step",
       "svg": "",
       "vrml": ""
     },

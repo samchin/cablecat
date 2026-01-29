@@ -447,7 +447,7 @@
 		(property ki_fp_filters "Capacitor:C0201")
 		(path "/170dfe6c-0c2b-4a32-abe1-09f18c32539d")
 		(sheetname "/")
-		(sheetfile "dabao_v3c.kicad_sch")
+		(sheetfile "xiaobao.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.7 -0.35)
@@ -658,7 +658,7 @@
 		)
 		(path "/bf52003c-860a-4acc-9471-fda5b1dfe510")
 		(sheetname "/")
-		(sheetfile "dabao_v3c.kicad_sch")
+		(sheetfile "xiaobao.kicad_sch")
 		(fp_line
 			(start 0.635 0.175512)
 			(end 0.493012 0.3175)
@@ -988,7 +988,7 @@
 		)
 		(path "/f02dfbe4-d22b-4e09-9dc6-8d43925981f1")
 		(sheetname "/")
-		(sheetfile "dabao_v3c.kicad_sch")
+		(sheetfile "xiaobao.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.7 0.35)
@@ -1343,7 +1343,7 @@
 		(property ki_fp_filters "*B_CAP0201*")
 		(path "/349f8925-1017-4d58-b42a-42c47e91934f")
 		(sheetname "/")
-		(sheetfile "dabao_v3c.kicad_sch")
+		(sheetfile "xiaobao.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.7 0.35)
@@ -1698,7 +1698,7 @@
 		(property ki_fp_filters "*B_CAP0201*")
 		(path "/682160b7-2103-4d00-b3f7-d2dc1f290502")
 		(sheetname "/")
-		(sheetfile "dabao_v3c.kicad_sch")
+		(sheetfile "xiaobao.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.7 0.35)
@@ -2036,7 +2036,7 @@
 		)
 		(path "/503b885b-501b-422b-bf7a-e1d46986a696")
 		(sheetname "/")
-		(sheetfile "dabao_v3c.kicad_sch")
+		(sheetfile "xiaobao.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.7 -0.35)
@@ -2371,7 +2371,7 @@
 		)
 		(path "/c6972bb2-0ed1-4769-9d5e-0ba447309fb7")
 		(sheetname "/")
-		(sheetfile "dabao_v3c.kicad_sch")
+		(sheetfile "xiaobao.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.107836 0.36)
@@ -2728,7 +2728,7 @@
 		(property ki_fp_filters "Resistor:R0201")
 		(path "/f31c1720-4677-40f9-b1a6-3f10ee619c86")
 		(sheetname "/")
-		(sheetfile "dabao_v3c.kicad_sch")
+		(sheetfile "xiaobao.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.7 0.35)
@@ -3078,7 +3078,7 @@
 		(property ki_fp_filters "*B_RES0201*")
 		(path "/dc7538e0-e749-41e3-a991-83337d2d30c6")
 		(sheetname "/")
-		(sheetfile "dabao_v3c.kicad_sch")
+		(sheetfile "xiaobao.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.7 -0.35)
@@ -3395,7 +3395,7 @@
 		)
 		(path "/fed9be5d-650d-40f4-af3d-980acd4f50ce")
 		(sheetname "/")
-		(sheetfile "dabao_v3c.kicad_sch")
+		(sheetfile "xiaobao.kicad_sch")
 		(attr smd)
 		(fp_rect
 			(start -0.762 -0.381)
@@ -3851,7 +3851,7 @@
 		(property ki_fp_filters "*B_CAP0603*")
 		(path "/d59c9b83-7d6e-4db4-ac88-ea3ca4e5cdcb")
 		(sheetname "/")
-		(sheetfile "dabao_v3c.kicad_sch")
+		(sheetfile "xiaobao.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.7 0.35)
@@ -4219,7 +4219,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/7aeb9042-1283-4252-b047-d226e4709869")
 		(sheetname "/")
-		(sheetfile "dabao_v3c.kicad_sch")
+		(sheetfile "xiaobao.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.7 -0.35)
@@ -4569,7 +4569,7 @@
 		(property ki_fp_filters "*B_RES0201*")
 		(path "/589fc206-022d-48b6-98ad-ab08ab1dae81")
 		(sheetname "/")
-		(sheetfile "dabao_v3c.kicad_sch")
+		(sheetfile "xiaobao.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.7 -0.35)
@@ -4919,7 +4919,7 @@
 		)
 		(path "/878de5fd-b8eb-4cf1-af80-e7dc0f9d97ca")
 		(sheetname "/")
-		(sheetfile "dabao_v3c.kicad_sch")
+		(sheetfile "xiaobao.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.7 -0.35)
@@ -5236,7 +5236,7 @@
 		)
 		(path "/b62fb62a-1494-414f-a97a-a065d729d280")
 		(sheetname "/")
-		(sheetfile "dabao_v3c.kicad_sch")
+		(sheetfile "xiaobao.kicad_sch")
 		(fp_rect
 			(start -0.3 -0.5)
 			(end 0.3 0.5)
@@ -5527,7 +5527,7 @@
 		)
 		(path "/272c450a-7b49-4912-93e9-78ace6924462")
 		(sheetname "/")
-		(sheetfile "dabao_v3c.kicad_sch")
+		(sheetfile "xiaobao.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.107836 0.36)
@@ -5870,7 +5870,7 @@
 		)
 		(path "/ddf59656-f6e1-45da-998d-ee44d9862797")
 		(sheetname "/")
-		(sheetfile "dabao_v3c.kicad_sch")
+		(sheetfile "xiaobao.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.7 0.35)
@@ -6188,7 +6188,7 @@
 		(property ki_fp_filters "Switch:SW4-SMD-2.8-2.6X1.6X0.53MM")
 		(path "/d0ffef5d-9741-41fc-a39c-1200d6287e09")
 		(sheetname "/")
-		(sheetfile "dabao_v3c.kicad_sch")
+		(sheetfile "xiaobao.kicad_sch")
 		(fp_rect
 			(start 1.3 0.8)
 			(end -1.3 -0.8)
@@ -6575,7 +6575,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/6b5b052d-8d2d-4791-9b1c-808d2afc61f1")
 		(sheetname "/")
-		(sheetfile "dabao_v3c.kicad_sch")
+		(sheetfile "xiaobao.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.7 0.35)
@@ -6914,7 +6914,7 @@
 		(property ki_fp_filters "USB*C*Receptacle*")
 		(path "/d4bcafb4-b072-4f06-8968-ff8b1b5cbe13")
 		(sheetname "/")
-		(sheetfile "dabao_v3c.kicad_sch")
+		(sheetfile "xiaobao.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 4.58 3.785)
@@ -7431,7 +7431,7 @@
 		(property ki_fp_filters "Diode:ESD-0201")
 		(path "/1d633a03-7df6-4752-a063-2d577ec041d3")
 		(sheetname "/")
-		(sheetfile "dabao_v3c.kicad_sch")
+		(sheetfile "xiaobao.kicad_sch")
 		(attr smd)
 		(fp_rect
 			(start -0.3556 -0.1524)
@@ -7762,7 +7762,7 @@
 		(property ki_fp_filters "*B_RES0201*")
 		(path "/fc1f9d2f-b4a2-403a-8126-f3849563bf9b")
 		(sheetname "/")
-		(sheetfile "dabao_v3c.kicad_sch")
+		(sheetfile "xiaobao.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.7 -0.35)
@@ -8079,7 +8079,7 @@
 		)
 		(path "/b7943a7c-4837-4b78-9a92-851179a04e7b")
 		(sheetname "/")
-		(sheetfile "dabao_v3c.kicad_sch")
+		(sheetfile "xiaobao.kicad_sch")
 		(attr smd)
 		(fp_rect
 			(start -1.1 -0.55)
@@ -8411,7 +8411,7 @@
 		(property ki_fp_filters "*B_CAP0603*")
 		(path "/56731822-4c7a-4f77-b067-198d39bb9708")
 		(sheetname "/")
-		(sheetfile "dabao_v3c.kicad_sch")
+		(sheetfile "xiaobao.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.7 -0.35)
@@ -8766,7 +8766,7 @@
 		(property ki_fp_filters "*B_RES0201*")
 		(path "/12329f9e-474b-4479-89aa-750c02b29199")
 		(sheetname "/")
-		(sheetfile "dabao_v3c.kicad_sch")
+		(sheetfile "xiaobao.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.7 -0.35)
@@ -9117,7 +9117,7 @@
 		(property ki_fp_filters "Resistor:R0201")
 		(path "/1cd8f37b-1b8d-41a0-8746-c70e8ab9cc2e")
 		(sheetname "/")
-		(sheetfile "dabao_v3c.kicad_sch")
+		(sheetfile "xiaobao.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.7 -0.35)
@@ -9432,7 +9432,7 @@
 		)
 		(path "/51ce30ea-83ea-4eaa-bb5c-dee6b6ed0c4b")
 		(sheetname "/")
-		(sheetfile "dabao_v3c.kicad_sch")
+		(sheetfile "xiaobao.kicad_sch")
 		(attr smd)
 		(fp_rect
 			(start -0.762 -0.381)
@@ -9807,7 +9807,7 @@
 		)
 		(path "/7529c33f-5615-4132-af68-625a979323ff")
 		(sheetname "/")
-		(sheetfile "dabao_v3c.kicad_sch")
+		(sheetfile "xiaobao.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.7 0.35)
@@ -10147,7 +10147,7 @@
 		(property ki_fp_filters "Resistor:R0201")
 		(path "/ab7a2b5d-e974-4778-8dfc-3182afcbde91")
 		(sheetname "/")
-		(sheetfile "dabao_v3c.kicad_sch")
+		(sheetfile "xiaobao.kicad_sch")
 		(attr smd)
 		(fp_rect
 			(start -0.3556 -0.1524)
@@ -10332,7 +10332,7 @@
 		(property ki_fp_filters "LED*WS2812*-2020_PLCC4*")
 		(path "/e3c6e664-bfae-420d-9766-7c8157edfb15")
 		(sheetname "/")
-		(sheetfile "dabao_v3c.kicad_sch")
+		(sheetfile "xiaobao.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -1 0.4)
@@ -10674,7 +10674,7 @@
 		(property ki_fp_filters "*B_CAP0603*")
 		(path "/55cf03d5-aa61-4b5a-af42-7ebaba57a90b")
 		(sheetname "/")
-		(sheetfile "dabao_v3c.kicad_sch")
+		(sheetfile "xiaobao.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.7 0.35)
@@ -11003,7 +11003,7 @@
 		(property ki_fp_filters "Module:MOUDLE23P-XIAO-HALF-HOLE")
 		(path "/87d16e8d-0d1d-4287-8061-1506199d0feb")
 		(sheetname "/")
-		(sheetfile "dabao_v3c.kicad_sch")
+		(sheetfile "xiaobao.kicad_sch")
 		(attr smd)
 		(net_tie_pad_groups "1" "2" "3" "4" "5" "6" "7" "8" "9" "10" "11" "12"
 			"13" "14" "15" "16" "17" "18" "19" "20" "21" "22" "23"
@@ -12902,7 +12902,7 @@
 		(property ki_fp_filters "Diode:ESD-0201")
 		(path "/f0a986c7-3fce-4ea0-b48a-21d6fa81f485")
 		(sheetname "/")
-		(sheetfile "dabao_v3c.kicad_sch")
+		(sheetfile "xiaobao.kicad_sch")
 		(attr smd)
 		(fp_rect
 			(start -0.3556 -0.1524)
@@ -13236,7 +13236,7 @@
 		(property ki_fp_filters "*B_CAP0603*")
 		(path "/28923e6f-7f25-4d9e-adf7-f9e0f92b12ac")
 		(sheetname "/")
-		(sheetfile "dabao_v3c.kicad_sch")
+		(sheetfile "xiaobao.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.7 0.35)
@@ -13574,7 +13574,7 @@
 		(property ki_fp_filters "Capacitor:C0201")
 		(path "/955ee4d9-b2d6-486f-a768-1b11f0e3c777")
 		(sheetname "/")
-		(sheetfile "dabao_v3c.kicad_sch")
+		(sheetfile "xiaobao.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.7 0.35)
@@ -13893,7 +13893,7 @@
 		)
 		(path "/34825a5a-f116-42b2-9c8d-648159b2a9d3")
 		(sheetname "/")
-		(sheetfile "dabao_v3c.kicad_sch")
+		(sheetfile "xiaobao.kicad_sch")
 		(fp_rect
 			(start -0.4 -0.6)
 			(end 0.4 0.6)
@@ -14279,7 +14279,7 @@
 		(property ki_fp_filters "*B_RES0201*")
 		(path "/be085280-e14b-44d1-afec-7ee044716f2e")
 		(sheetname "/")
-		(sheetfile "dabao_v3c.kicad_sch")
+		(sheetfile "xiaobao.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.7 -0.35)
@@ -14629,7 +14629,7 @@
 		)
 		(path "/6a840966-0cb3-44fe-a2e1-1f4c3aa37da1")
 		(sheetname "/")
-		(sheetfile "dabao_v3c.kicad_sch")
+		(sheetfile "xiaobao.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.7 -0.35)
@@ -14965,7 +14965,7 @@
 		(property ki_fp_filters "Capacitor:C0201")
 		(path "/3a771ad2-53a7-4ccf-80d0-f63ad5d03cbc")
 		(sheetname "/")
-		(sheetfile "dabao_v3c.kicad_sch")
+		(sheetfile "xiaobao.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.7 -0.35)
@@ -15320,7 +15320,7 @@
 		(property ki_fp_filters "*B_CAP0201*")
 		(path "/dfc2593a-8d1e-4260-ab3e-80f3d3c6cdc7")
 		(sheetname "/")
-		(sheetfile "dabao_v3c.kicad_sch")
+		(sheetfile "xiaobao.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.7 -0.35)
@@ -15658,7 +15658,7 @@
 		(property ki_fp_filters "Capacitor:C0201")
 		(path "/db30075e-cf6e-4972-9e53-1915db9b2400")
 		(sheetname "/")
-		(sheetfile "dabao_v3c.kicad_sch")
+		(sheetfile "xiaobao.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.7 0.35)
@@ -15977,7 +15977,7 @@
 		)
 		(path "/462cc891-03a3-4649-bb36-48c2e3c9e378")
 		(sheetname "/")
-		(sheetfile "dabao_v3c.kicad_sch")
+		(sheetfile "xiaobao.kicad_sch")
 		(fp_rect
 			(start -0.4 -0.6)
 			(end 0.4 0.6)
@@ -16310,7 +16310,7 @@
 		(property ki_fp_filters "Diode:ESD-0201")
 		(path "/9ef5b998-4be5-4fad-a28e-b808fe092ec0")
 		(sheetname "/")
-		(sheetfile "dabao_v3c.kicad_sch")
+		(sheetfile "xiaobao.kicad_sch")
 		(attr smd)
 		(fp_rect
 			(start -0.3556 -0.1524)
@@ -16607,7 +16607,7 @@
 		(property ki_fp_filters "Switch:SW4-SMD-2.8-2.6X1.6X0.53MM")
 		(path "/4ac0de55-b55a-49b3-98ae-0e171addde3d")
 		(sheetname "/")
-		(sheetfile "dabao_v3c.kicad_sch")
+		(sheetfile "xiaobao.kicad_sch")
 		(fp_rect
 			(start 1.3 0.8)
 			(end -1.3 -0.8)
@@ -16981,7 +16981,7 @@
 		(property ki_fp_filters "*B_CAP0603*")
 		(path "/486bbd63-b4cc-4baf-a939-ac85bfe3b36b")
 		(sheetname "/")
-		(sheetfile "dabao_v3c.kicad_sch")
+		(sheetfile "xiaobao.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.7 0.35)
@@ -17336,7 +17336,7 @@
 		(property ki_fp_filters "*B_CAP0201*")
 		(path "/72160fd0-ef78-44e0-8f6d-d79d3c0097a1")
 		(sheetname "/")
-		(sheetfile "dabao_v3c.kicad_sch")
+		(sheetfile "xiaobao.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.7 -0.35)
@@ -17635,7 +17635,7 @@
 		(property ki_fp_filters "Diode:ESD-0201")
 		(path "/cba0d181-31f3-4818-aa9f-47e5e0c7808b")
 		(sheetname "/")
-		(sheetfile "dabao_v3c.kicad_sch")
+		(sheetfile "xiaobao.kicad_sch")
 		(attr smd)
 		(fp_rect
 			(start -0.3556 -0.1524)
@@ -17966,7 +17966,7 @@
 		(property ki_fp_filters "*B_RES0201*")
 		(path "/c30e3392-559c-4656-868a-14fb7f27287a")
 		(sheetname "/")
-		(sheetfile "dabao_v3c.kicad_sch")
+		(sheetfile "xiaobao.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.7 0.35)
@@ -18303,7 +18303,7 @@
 		)
 		(path "/bbbd74ef-d38c-42f4-91a4-142162b3d649")
 		(sheetname "/")
-		(sheetfile "dabao_v3c.kicad_sch")
+		(sheetfile "xiaobao.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.7 -0.35)
@@ -18524,7 +18524,7 @@
 		)
 		(path "/d783ffa6-ec74-48a3-ad02-b1ddf765de76")
 		(sheetname "/")
-		(sheetfile "dabao_v3c.kicad_sch")
+		(sheetfile "xiaobao.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -2.151 2.001)
@@ -19065,7 +19065,7 @@
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(net 45 "unconnected-(U1B-XRSTn-PadE5)")
 			(pinfunction "XRSTn")
-			(pintype "input")
+			(pintype "input+no_connect")
 			(uuid "b6f10ea3-ec18-4636-8ed7-8781bdd97b6c")
 		)
 		(pad "E6" smd circle
@@ -19570,7 +19570,7 @@
 		)
 		(path "/e92be50b-ce98-49e1-9881-c4b2b867d340")
 		(sheetname "/")
-		(sheetfile "dabao_v3c.kicad_sch")
+		(sheetfile "xiaobao.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -1.41 -1.21)
@@ -19891,7 +19891,7 @@
 		(property ki_fp_filters "*B_RES0201*")
 		(path "/e752ef1a-6922-437e-b8c0-8853520aea0c")
 		(sheetname "/")
-		(sheetfile "dabao_v3c.kicad_sch")
+		(sheetfile "xiaobao.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.7 0.35)
@@ -20228,7 +20228,7 @@
 		)
 		(path "/f48315a3-b075-45d1-8b00-44b45a09c2e8")
 		(sheetname "/")
-		(sheetfile "dabao_v3c.kicad_sch")
+		(sheetfile "xiaobao.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.107836 0.36)
@@ -20561,7 +20561,7 @@
 		(property ki_fp_filters "Ic:WLCSP4-0.4-0.77X0.77X0.33MM")
 		(path "/fa0b69b6-23e5-415d-ba34-e10d33a46283")
 		(sheetname "/")
-		(sheetfile "dabao_v3c.kicad_sch")
+		(sheetfile "xiaobao.kicad_sch")
 		(attr smd)
 		(fp_rect
 			(start -0.39 -0.39)
@@ -20869,7 +20869,7 @@
 		)
 		(path "/14c5a115-1b9e-4ad5-a2bd-a4cd45802c25")
 		(sheetname "/")
-		(sheetfile "dabao_v3c.kicad_sch")
+		(sheetfile "xiaobao.kicad_sch")
 		(fp_rect
 			(start -0.3 -0.5)
 			(end 0.3 0.5)
@@ -21160,7 +21160,7 @@
 		)
 		(path "/6764893d-f3f9-4324-b7b2-4b4fa8fac7ef")
 		(sheetname "/")
-		(sheetfile "dabao_v3c.kicad_sch")
+		(sheetfile "xiaobao.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.107836 -0.36)
@@ -21517,7 +21517,7 @@
 		(property ki_fp_filters "Resistor:R0201")
 		(path "/dfb0aee0-0596-4232-bf3d-1eaebcbad8ba")
 		(sheetname "/")
-		(sheetfile "dabao_v3c.kicad_sch")
+		(sheetfile "xiaobao.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.7 0.35)
@@ -21833,7 +21833,7 @@
 		)
 		(path "/9d5ac077-8008-4753-9ca6-52833c6c0e5b")
 		(sheetname "/")
-		(sheetfile "dabao_v3c.kicad_sch")
+		(sheetfile "xiaobao.kicad_sch")
 		(fp_rect
 			(start -0.45 -0.6)
 			(end 0.45 0.6)
@@ -22233,7 +22233,7 @@
 		(property ki_fp_filters "*B_CAP0201*")
 		(path "/5edcaf25-ee9f-43a3-a8a2-565dddb5e6a9")
 		(sheetname "/")
-		(sheetfile "dabao_v3c.kicad_sch")
+		(sheetfile "xiaobao.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.7 -0.35)
@@ -22550,7 +22550,7 @@
 		)
 		(path "/bfa453c6-90e3-42f0-8132-e81878baf5c6")
 		(sheetname "/")
-		(sheetfile "dabao_v3c.kicad_sch")
+		(sheetfile "xiaobao.kicad_sch")
 		(attr smd)
 		(fp_rect
 			(start -1.1 -0.55)
@@ -22877,7 +22877,7 @@
 		)
 		(path "/c3992837-38ee-4919-bd50-54dffb2ab104")
 		(sheetname "/")
-		(sheetfile "dabao_v3c.kicad_sch")
+		(sheetfile "xiaobao.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.7 0.35)
@@ -23187,7 +23187,7 @@
 		)
 		(path "/877c4c3d-7073-4c75-a8d7-ad5ccb92fd52")
 		(sheetname "/")
-		(sheetfile "dabao_v3c.kicad_sch")
+		(sheetfile "xiaobao.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.8 1.050001)
@@ -23649,7 +23649,7 @@
 		(property ki_fp_filters "Ic:WLCSP4-0.4-0.77X0.77X0.33MM")
 		(path "/f79376cd-b10c-4191-9c4e-cc537d349cfe")
 		(sheetname "/")
-		(sheetfile "dabao_v3c.kicad_sch")
+		(sheetfile "xiaobao.kicad_sch")
 		(attr smd)
 		(fp_rect
 			(start -0.39 -0.39)
@@ -23868,7 +23868,7 @@
 		)
 		(path "/f14370d5-c66e-462b-8cc0-9b48a0c92ce5")
 		(sheetname "/")
-		(sheetfile "dabao_v3c.kicad_sch")
+		(sheetfile "xiaobao.kicad_sch")
 		(attr exclude_from_bom)
 		(fp_circle
 			(center 0 0)
@@ -23986,7 +23986,7 @@
 		)
 		(path "/ff6cbb04-6ea1-41fc-ad6a-ade975696489")
 		(sheetname "/")
-		(sheetfile "dabao_v3c.kicad_sch")
+		(sheetfile "xiaobao.kicad_sch")
 		(zone_connect 1)
 		(attr smd exclude_from_bom)
 		(fp_circle
@@ -24401,7 +24401,8 @@
 		(property ki_fp_filters "Misc:TP-80X40MIL")
 		(path "/86bfc26e-26b9-4ef7-8966-8cb6860c9908")
 		(sheetname "/")
-		(sheetfile "dabao_v3c.kicad_sch")
+		(sheetfile "xiaobao.kicad_sch")
+		(attr exclude_from_bom)
 		(fp_rect
 			(start 1.143 -0.635)
 			(end -1.143 0.635)
@@ -24568,7 +24569,7 @@
 		)
 		(path "/327c19ef-c323-43b3-a9f8-724f48f4be7c")
 		(sheetname "/")
-		(sheetfile "dabao_v3c.kicad_sch")
+		(sheetfile "xiaobao.kicad_sch")
 		(attr exclude_from_bom)
 		(fp_circle
 			(center 0 0)
@@ -24686,7 +24687,7 @@
 		)
 		(path "/616ba50a-565e-4cef-a799-32cc28ba3d1b")
 		(sheetname "/")
-		(sheetfile "dabao_v3c.kicad_sch")
+		(sheetfile "xiaobao.kicad_sch")
 		(attr exclude_from_bom)
 		(fp_circle
 			(center 0 0)
@@ -24804,7 +24805,7 @@
 		)
 		(path "/aa077dd7-787b-4a2d-bdd4-305a6f27d9e6")
 		(sheetname "/")
-		(sheetfile "dabao_v3c.kicad_sch")
+		(sheetfile "xiaobao.kicad_sch")
 		(attr exclude_from_bom)
 		(fp_circle
 			(center 0 0)
@@ -24922,7 +24923,7 @@
 		)
 		(path "/270a04ba-c03e-4894-9673-b82585b2efcb")
 		(sheetname "/")
-		(sheetfile "dabao_v3c.kicad_sch")
+		(sheetfile "xiaobao.kicad_sch")
 		(attr exclude_from_bom)
 		(fp_circle
 			(center 0 0)
@@ -25040,7 +25041,7 @@
 		)
 		(path "/d0298055-a8ee-4150-bc7e-18ce195f5d14")
 		(sheetname "/")
-		(sheetfile "dabao_v3c.kicad_sch")
+		(sheetfile "xiaobao.kicad_sch")
 		(attr exclude_from_bom)
 		(fp_circle
 			(center 0 0)
@@ -25254,7 +25255,8 @@
 		(property ki_fp_filters "Misc:TP-80X40MIL")
 		(path "/6fc8681c-c32e-46ef-a674-1745d469d670")
 		(sheetname "/")
-		(sheetfile "dabao_v3c.kicad_sch")
+		(sheetfile "xiaobao.kicad_sch")
+		(attr exclude_from_bom)
 		(fp_rect
 			(start 1.143 -0.635)
 			(end -1.143 0.635)
@@ -25421,7 +25423,7 @@
 		)
 		(path "/0a2500bc-c4b1-497d-a447-d6cd0150e914")
 		(sheetname "/")
-		(sheetfile "dabao_v3c.kicad_sch")
+		(sheetfile "xiaobao.kicad_sch")
 		(attr exclude_from_bom)
 		(fp_circle
 			(center 0 0)
@@ -50217,7 +50219,7 @@
 		(net 50)
 		(net_name "VBAT")
 		(layer "B.Cu")
-		(uuid "7a147323-4458-45b3-ab5f-ac150a1210be")
+		(uuid "e23e057e-1ae7-4023-a052-099d9d16b623")
 		(name "$teardrop_padvia$")
 		(hatch none 0.1)
 		(priority 30000)
