@@ -1,3 +1,3 @@
-# Dabao board design files
+# cablecat
 
-This repo contains the Kicad design files for the Dabao evaluation board for the Baochip-1x.
+a serial cable for i2c, spi, and uart
